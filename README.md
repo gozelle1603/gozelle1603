@@ -16,5 +16,5 @@ I'm exploring data analytics and machine learning through a 30-day challenge, bu
 - MDP inventory optimization
 
 ### 📫 Contact
-[LinkedIn](www.linkedin.com/in/hatice-gozelle1) · hatice.gozelle@std.bogazici.edu.tr
+www.linkedin.com/in/hatice-gozelle1 · hatice.gozelle@std.bogazici.edu.tr
 
