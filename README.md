@@ -9,7 +9,7 @@ I'm exploring data analytics and machine learning through a 30-day challenge, bu
 - Machine learning, stochastic modeling & Markov decision processes
 - How large language models work, by building one from scratch (Stanford CS336)
 
-### 📂 Projects (coming soon)
+### 📂 Projects 
 - SQL practice
 - Language model from scratch
 - Markov chain customer retention model
